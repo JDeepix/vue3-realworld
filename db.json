@@ -1,4 +1,5 @@
 {
+[
   "events": [
     {
       "id": 123,
@@ -30,7 +31,7 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
-  ]
+  ],
 
   "users": [
     {
@@ -48,4 +49,5 @@
       "displayname": "Tester, 2 (Test)"
     }
   ]
+]
 }
