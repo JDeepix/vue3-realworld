@@ -30,5 +30,21 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+  ],
+  "users": [
+    {
+      "id": 111,
+      "sn": "Testnachname1",
+      "givenname": "Testvorname1",
+      "createdwhen": "15.12.2020",
+      "displayname": "Tester, 1 (Test)"
+    },
+    {
+      "id": 222,
+      "sn": "Testnachname2",
+      "givenname": "Testvorname2",
+      "createdwhen": "15.10.2020",
+      "displayname": "Tester, 2 (Test)"
+    },
   ]
 }
